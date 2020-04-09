@@ -68,4 +68,11 @@ class Student {
 			return false;
 
 	}
+	class  Course {
+		List<Student>studentList = new ArrayList();
+		public addStudent(Student s){
+			studentList(s).add;
+		}
+		
+	}
 }
